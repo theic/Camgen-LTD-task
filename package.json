@@ -1,0 +1,11 @@
+{
+  "name": "file-save",
+  "version": "1.0.0",
+  "description": "Downloads file from a remote URL.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey L.",
+  "license": "ISC"
+}
